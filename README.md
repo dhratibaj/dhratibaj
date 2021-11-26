@@ -3,10 +3,6 @@ dhratibaj/dhratibaj is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center">
-  <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhratibaj&theme=react&cache_seconds=30&hide_border=true"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Dhrati Bajpai</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 
